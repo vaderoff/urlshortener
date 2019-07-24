@@ -1,0 +1,6 @@
+media/
+.vscode/
+**/__pycache__/
+*.DS_Store
+._*
+db.sqlite3
